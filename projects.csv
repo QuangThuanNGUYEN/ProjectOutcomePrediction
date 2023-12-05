@@ -1,0 +1,55 @@
+﻿name,non_gov,budget,start_year,cost_overrun,time_forecast,time_overrun,launch_year,country,Average_GDPPC,Average_CPI,domain,crisis_event_during_building,crisis_event_after_lauch,outcome
+CHESS Replacement,1,329.84,2015,264.11,9,24,2021,Australia,0.05,77,trading,1,1,0
+Quibi,1,2173.06,2018,-1,24,0,2020,US,0.063824,69,media,0,1,0
+Iowa caucus app,1,0.07,2020,-1,2,-1,2020,US,0.063529,67,election,1,1,0
+Panorama,0,333.34,2006,101.37,36,9,2015,Canada,0.047239,89,healthcare,1,0,0
+Texas Child Support Enforcement System 2.0,0,340,2007,258.13,132,15,2019,US,0.054403,72.46,government services,1,1,0
+eLWIS,1,466.08,2011,-1,-1,-1,2018,Germany,0.045089,80,telecommunications,0,0,0
+i6,0,99.75,2013,-1,12,24,2016,UK,0.029819,79,government services,0,0,0
+Phoenix,0,367,2009,2820.44,5,5,2016,Canada,0.049104,81.5,government services,0,0,0
+TSA body scanners,0,27.11,2009,-1,-1,-1,2010,US,0.047923,73,security,1,0,0
+UK National Health Service Test and Trace system,0,27870.21,2020,22000,-1,-1,2020,UK,0.04585,77,healthcare,1,1,0
+The US state of Maryland’s unemployment insurance system,0,92.98,2015,-1,-1,-1,2020,US,0.061001,72,insurace system,0,1,0
+JEDI,0,12417.51,2018,-1,48,20,2018,US,0.062823,71,army,0,0,0
+UK Post Office's Horizon IT system,0,2173.57,1996,572.97,-1,180,1999,UK,0.027077,86,government services,0,1,0
+Colorado unemployment insurance system,0,126.02,2016,-1,48,12,2021,US,0.063244,70.5,insurace system,1,1,0
+The Common Platform Program,0,2173.57,2014,-1,60,12,2023,UK,0.04,79.67,education,0,1,0
+FBI'S virtual case file system,0,692.89,2000,287.97,36,60,2005,US,0.039467,76.1,law ,1,1,0
+The Queensland health payroll system,0,20.26,2007,1262.19,6,18,2010,Australia,0.046411,86.67,payroll,1,0,0
+Facebook's Libra,1,12.67,2017,-1,36,-1,2023,US,0.062052,74,trading,1,1,0
+The Australian Department of Home Affairs' Visa Processing System,0,249.78,2017,18.24,36,-1,2023,Australia,0.03708,78,government services,1,1,0
+The State of Maryland's Health Exchange ,0,607.27,2011,-1,-1,-1,2011,US,0.050066,73,healthcare,0,0,0
+NPfIT,0,15173.25,2002,30959.67,40,60,2011,UK,0.041105,89,healthcare,1,0,0
+Google wave,1,-1,2004,-1,-1,-1,2009,US,0.045965,74,communication,1,0,0
+AOL instant messenger,1,-1,1997,-1,-1,-1,1997,US,0.031459,75,communication,0,0,0
+HealthSMART,0,306.95,2003,133.04,48,60,2012,Australia,0.044185,87.4,healthcare,1,0,0
+NovoPay,0,205.17,2008,25.01,-1,-1,2012,New Zealand,0.0343,87.4,payroll,0,0,0
+Robodebt,0,5.36,2016,570.12,-1,-1,2016,Australia,0.049877,79,government services,1,1,0
+Victoria’s Myki Smart Card,0,1262.58,2005,631.29,24,108,2008,Australia,0.03793,87,transportation,1,1,0
+Westpac Branch Network Transformation,1,100,2018,-1,12,0,2018,Australia,0.057207,77,banking,0,0,1
+Services Australia 500 Site Network Refresh,0,-1,2021,-1,-1,-1,2022,Australia,0.062468,75,network,1,1,1
+The Uber Disruptive Business Model Project,1,200,2009,-1,-1,-1,2010,US,0.047923,73,transportation,0,0,1
+"Billing & CRM, SA Power Networks",1,-1,2019,-1,-1,-1,2021,Australia,0.055703,75.67,energy,1,1,1
+US Healthcare.gov,0,125.24,2010,2138.54,36,0,2013,US,0.053921,73,healthcare,0,0,1
+National Broadband Network (NBN),0,36900,2009,-1,120,-12,2018,Australia,0.057399,82,network,0,0,1
+E*Justice Upgrade,0,1.43,2021,-0.41,11,4,2022,Australia,0.062468,75,law,0,0,1
+Fairer Victoria Grants Management,0,1.13,2021,0.23,12,0,2022,Australia,0.062468,75,community services,1,0,1
+Tenant Relocaiton System,0,1.43,2022,0,5,3,2022,Australia,0.064491,77,community services,0,0,1
+VISIT 2-0,0,1.5,2021,0,8,2,2022,Australia,0.062468,75,education,1,0,1
+NewPaymentPlatform,1,1000,2013,-1,-1,-1,2018,Australia,0.057477,78.57,payment,0,0,1
+BharatNet,0,6000,2011,-1,-1,-1,2011,India,0.00145,33,network,0,0,1
+Peninsula Health Surgical Centre - IT component,0,5.92,2022,0,4,0,2022,Australia,0.064491,77,health,0,0,1
+Enforcement & Advice,0,60,2020,17.15,19,9,2022,Australia,0.05886,75.67,governance,1,0,1
+Target Architecture Blueprint for the Victorian Government,0,1,2022,0,6,0,2022,Australia,0.064491,77,community services,0,0,1
+New Housing Integrated Information Program (HiiP) ,0,1.01,2021,0,11,3,2022,Australia,0.062468,75,environment,1,0,1
+Automated Briefing and Correspondence,0,1.9,2020,0,14,13,2022,Australia,0.05886,75.67,business process automation,1,0,1
+DCFMC,0,2.02,2021,0,8,1,2022,Australia,0.062468,75,business process automation,1,0,1
+Data Centre Core Network Refresh,0,2.12,2021,0.38,8,18,2022,Australia,0.062468,75,network,1,0,1
+MCEC core systems uplift,0,1.33,2021,1.08,15,5,2022,Australia,0.062468,75,finance,1,0,1
+SWARH windows 2003/2008 server,0,2.66,2020,0,6,4,2022,Australia,0.05886,75.67,healthcare,1,0,1
+western health active directory,0,1.88,2020,0.89,18,9,2022,Australia,0.05886,75.67,healthcare,1,0,1
+peninsula health enhanced eReferral,0,1.35,2020,0.42,15,13,2022,Australia,0.05886,75.67,healthcare,1,0,1
+migration to public cloud Victoria ,0,10.2,2021,-7.56,15,1,2022,Australia,0.062468,75,cloud,1,0,1
+SAP successFactors,0,1.54,2020,1.59,8,12,2022,Australia,0.05886,75.67,human capital,1,0,1
+MTIA reporting and analytics,0,2.37,2021,0.26,5,4,2022,Australia,0.062468,75,transportation,1,0,1
+service delivery model,0,1.31,2021,0,6,2,2022,Australia,0.062468,75,environment,1,0,1
